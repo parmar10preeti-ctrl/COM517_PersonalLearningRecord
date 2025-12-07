@@ -1,0 +1,9 @@
+Customer ID,Gender,Age,Product Bought,Units Sold,Satisfaction Score
+C001,Male,22,Shoes,2,4
+C002,Female,28,Bag,1,5
+C003,Female,35,Shoes,3,3
+C004,Male,41,Jacket,1,4
+C005,Female,19,Shoes,2,5
+C006,Male,30,Bag,4,2
+,,,,,
+,,,,Average Satisfaction Score,3.833333333
